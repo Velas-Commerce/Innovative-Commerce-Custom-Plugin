@@ -25,6 +25,7 @@ To display the current Bitcoin price in USD on a page or post, use the `[bitcoin
 
 - VelasCommerce
 - Website: [https://www.velascommerce.com/](https://www.velascommerce.com/)
+![Plugin logo](https://github.com/LeanneSalva/Innovative-Commerce-Custom-Plugin/assets/123197122/fbfecc1e-cacf-4fb5-b2cf-2650eebec50e)
 
 ## License
 
