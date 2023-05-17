@@ -1,5 +1,5 @@
 # Innovative-Commerce-Custom-Plugin
-
+![Plugin logo](https://github.com/LeanneSalva/Innovative-Commerce-Custom-Plugin/assets/123197122/fbfecc1e-cacf-4fb5-b2cf-2650eebec50e)
 WordPress plugin for Innovative Commerce
 
 ## Description
@@ -39,9 +39,9 @@ To display the current Bitcoin price in the header of your WordPress theme, foll
 
 - VelasCommerce
 - Website: [https://www.velascommerce.com/](https://www.velascommerce.com/)
-![Plugin logo](https://github.com/LeanneSalva/Innovative-Commerce-Custom-Plugin/assets/123197122/fbfecc1e-cacf-4fb5-b2cf-2650eebec50e)
-
+![Outlook-3o04z21r](https://github.com/LeanneSalva/Innovative-Commerce-Custom-Plugin/assets/123197122/d645140b-b255-47da-91ee-f985e843d0c1)
 ## License
 
 This plugin is licensed under the GPL v2 or later. For more details, see the [license file](https://www.gnu.org/licenses/gpl-2.0.html).
+
 
