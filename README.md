@@ -16,6 +16,20 @@ The Innovative-Commerce-Custom-Plugin is a WordPress plugin that retrieves the c
 
 To display the current Bitcoin price in USD on a page or post, use the `[bitcoin_price]` shortcode.
 
+## Adding the Code to the Theme Header (header.php)
+
+To display the current Bitcoin price in the header of your WordPress theme, follow these steps:
+
+1. Open your theme's `header.php` file.
+2. Locate the `<header>` tag with the `id="site-header"` attribute.
+3. Insert the following code inside the `<header>` tag, preferably in a suitable location:
+
+```php
+<div style="text-align: center; background-color: black; color: white;">
+  <?php echo do_shortcode('[bitcoin_price]'); ?>
+</div>
+```
+
 ## Requirements
 
 - WordPress version 5.2 or higher
