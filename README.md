@@ -8,7 +8,7 @@ The Innovative-Commerce-Custom-Plugin is a WordPress plugin that retrieves the c
 
 ## Installation
 
-1. Download the plugin ZIP file from the [WordPress plugin repository](https://www.velascommerce.com/).
+1. Download the plugin ZIP file from [GitHub](https://github.com/LeanneSalva/Innovative-Commerce-Custom-Plugin).
 2. Extract the ZIP file and upload the plugin folder to the `wp-content/plugins/` directory of your WordPress installation.
 3. Activate the plugin through the WordPress admin panel.
 
