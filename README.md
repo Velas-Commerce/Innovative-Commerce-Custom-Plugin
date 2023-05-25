@@ -8,8 +8,12 @@ The Innovative-Commerce-Custom-Plugin is a WordPress plugin that retrieves the c
 
 ## Installation
 
-1. Download the plugin ZIP file from the [WordPress plugin repository](https://www.velascommerce.com/).
+1. Download the plugin ZIP file from [GitHub](https://github.com/LeanneSalva/Innovative-Commerce-Custom-Plugin).
+![GIF](https://export-download.canva.com/a3tvQ/DAFj8Ia3tvQ/5/0-5463475687.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230525%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230525T124950Z&X-Amz-Expires=18896&X-Amz-Signature=8cf45d6effe800ebf6afd5959f936c19402944f1f0baddc99f8de37ed35934f9&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.gif&response-expires=Thu%2C%2025%20May%202023%2018%3A04%3A46%20GMT)
+
 2. Extract the ZIP file and upload the plugin folder to the `wp-content/plugins/` directory of your WordPress installation.
+![GIF](https://export-download.canva.com/58-68/DAFj8f58-68/8/0-47929362103.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230525%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230525T151432Z&X-Amz-Expires=13205&X-Amz-Signature=99adfabef035be4fe1a530e5a4e767a462820079d54bfad7c780e2413f40a5f8&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.gif&response-expires=Thu%2C%2025%20May%202023%2018%3A54%3A37%20GMT)
+
 3. Activate the plugin through the WordPress admin panel.
 
 ## Usage
