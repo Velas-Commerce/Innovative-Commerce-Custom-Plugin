@@ -10,7 +10,7 @@ The Innovative-Commerce-Custom-Plugin is a WordPress plugin that retrieves the c
 
 1. Download the plugin ZIP file from [GitHub](https://github.com/LeanneSalva/Innovative-Commerce-Custom-Plugin).
 
-   ![GIF](https://export-download.canva.com/CaMWM/DAFkB8CaMWM/2/0-5530311659.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230525%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230525T203441Z&X-Amz-Expires=75294&X-Amz-Signature=85d480e9dbf62a0284c1b66221fb24c3fedd20b86b3f187eef6a3ee819e20dcd&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.gif&response-expires=Fri%2C%2026%20May%202023%2017%3A29%3A35%20GMT)
+   
 
 
 2. Extract the ZIP file and upload the plugin folder to the `wp-content/plugins/` directory of your WordPress installation.
