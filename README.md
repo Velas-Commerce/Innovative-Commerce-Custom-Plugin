@@ -13,13 +13,15 @@ The Innovative-Commerce-Custom-Plugin is a WordPress plugin that retrieves the c
    ![GIF](https://export-download.canva.com/CaMWM/DAFkB8CaMWM/2/0-6849241510024048835.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230604%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230604T063003Z&X-Amz-Expires=31814&X-Amz-Signature=a88768d57600f79b6be41603ef2838e7985e6de29328903d804e1ab1a1bcda71&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.gif&response-expires=Sun%2C%2004%20Jun%202023%2015%3A20%3A17%20GMT)
 
 
+
 2. Extract the ZIP file and upload the plugin folder to the `wp-content/plugins/` directory of your WordPress installation.
 
-   ![GIF](https://export-download.canva.com/f7J-4/DAFkB9f7J-4/4/0-5531111063.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230526%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230526T093800Z&X-Amz-Expires=27088&X-Amz-Signature=22444b9cbda89caa6a2ffede72f748a10cc6bbedd420914d1224916a3434e330&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.gif&response-expires=Fri%2C%2026%20May%202023%2017%3A09%3A28%20GMT)
+   ![GIF](https://export-download.canva.com/f7J-4/DAFkB9f7J-4/4/0-1893030124076167560.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230604%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230604T013223Z&X-Amz-Expires=50611&X-Amz-Signature=7f7c580d35127084e31843796a8f671d2005abd3607b2de723060ab97cd27500&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.gif&response-expires=Sun%2C%2004%20Jun%202023%2015%3A35%3A54%20GMT)
+   
    
 3. Activate the plugin through the WordPress admin panel.
 
-   ![GIF](https://export-download.canva.com/YaAGE/DAFkBzYaAGE/5/0-5531878138.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230525%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230525T190133Z&X-Amz-Expires=80204&X-Amz-Signature=50542f8cca6ba16cc1edb4cb92da6fc3c13a97f778adcf46cd70d45b735a353d&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.gif&response-expires=Fri%2C%2026%20May%202023%2017%3A18%3A17%20GMT)
+   ![GIF](https://export-download.canva.com/YaAGE/DAFkBzYaAGE/5/0-214313363224401943.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230603%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230603T235911Z&X-Amz-Expires=55326&X-Amz-Signature=8781ad713cad3e0c1d619f7b796d75332035a229b677365d6a479613a2b94e5c&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.gif&response-expires=Sun%2C%2004%20Jun%202023%2015%3A21%3A17%20GMT)
   
 
 ## Usage
