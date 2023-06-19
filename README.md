@@ -10,19 +10,12 @@ The Innovative-Commerce-Custom-Plugin is a WordPress plugin that retrieves the c
 
 1. Download the plugin ZIP file from [GitHub](https://github.com/LeanneSalva/Innovative-Commerce-Custom-Plugin).
 
-   ![GIF](https://export-download.canva.com/CaMWM/DAFkB8CaMWM/2/0-6849241510024048835.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230604%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230604T063003Z&X-Amz-Expires=31814&X-Amz-Signature=a88768d57600f79b6be41603ef2838e7985e6de29328903d804e1ab1a1bcda71&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.gif&response-expires=Sun%2C%2004%20Jun%202023%2015%3A20%3A17%20GMT)
-
-
 
 2. Extract the ZIP file and upload the plugin folder to the `wp-content/plugins/` directory of your WordPress installation.
 
-   ![GIF](https://export-download.canva.com/f7J-4/DAFkB9f7J-4/4/0-1893030124076167560.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230604%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230604T013223Z&X-Amz-Expires=50611&X-Amz-Signature=7f7c580d35127084e31843796a8f671d2005abd3607b2de723060ab97cd27500&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.gif&response-expires=Sun%2C%2004%20Jun%202023%2015%3A35%3A54%20GMT)
-   
-   
+
 3. Activate the plugin through the WordPress admin panel.
 
-   ![GIF](https://export-download.canva.com/YaAGE/DAFkBzYaAGE/5/0-214313363224401943.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230603%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230603T235911Z&X-Amz-Expires=55326&X-Amz-Signature=8781ad713cad3e0c1d619f7b796d75332035a229b677365d6a479613a2b94e5c&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.gif&response-expires=Sun%2C%2004%20Jun%202023%2015%3A21%3A17%20GMT)
-  
 
 ## Usage
 
